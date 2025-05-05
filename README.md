@@ -62,7 +62,7 @@ Developing a scalable e-commerce web app tailored for gaming products with featu
 ### 📫 Contact Me
 
 - 📧 Email: priyankahotkar4@gmail.com
-- 💼 LinkedIn: [Your LinkedIn](www.linkedin.com/in/priyanka-hotkar-3a667a259) 
+- 💼 LinkedIn: [LinkedIn profile](www.linkedin.com/in/priyanka-hotkar-3a667a259) 
 - 🐱 GitHub: [@priyankahotkar](https://github.com/priyankahotkar)
 
 ---
