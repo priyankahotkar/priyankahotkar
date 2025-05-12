@@ -1,60 +1,81 @@
 <h1 align="center">Hi 👋, I'm Priyanka Hotkar</h1>
-<h3 align="center">A passionate Java coder and AI explorer from India</h3>
+<h3 align="center">Java Developer | AI Explorer | Full-Stack Intern | 3rd Year B.Tech Student</h3>
 
 ---
 
-### 👩‍💻 About Me
-
-- 🎓 3rd Year B.Tech Student  
-- 💻 Java & DSA Enthusiast (Apna College Sigma Batch 3.0)  
-- 🧠 Learning Web Dev, Machine Learning & Cloud Computing    
-- 🔭 I’m aiming to crack coding contests and ace placements  
-- 🤝 I love to build tools that actually help people
+### 🚀 About Me
+- 🎓 B.Tech CSE Student @ Walchand Institute of Technology | CGPA: 9.75  
+- 💻 Java & DSA Enthusiast (Apna College Sigma 3.0)  
+- 🤖 Exploring Machine Learning, Cloud Computing & System Design  
+- 👩‍💻 Intern @ Jabsz Gaming Studios (Full-Stack) & UptoSkills (AI/ML)  
+- 🏆 570+ Problems Solved on LeetCode | 100 Days Badge | Global Rank Top 27%  
+- 🧠 Passionate about building scalable tech with real-world impact
 
 ---
 
 ### 🛠️ Tech Stack
 
-- 💻 Languages: `Java`, `Python`, `C`, `HTML/CSS`, `SQL`, `JavaScript`
-- ⚙️ Frameworks & Tools: `Spring Boot`, `JDBC`, `JSP`, `Servlets`, `Eclipse`, `NetBeans`, `XAMPP`, `MySQL`
-- 🧰 Currently exploring: `React`, `Flask`, `AWS`, `Google Colab`, `Git & GitHub`
+#### Languages:
+`Java` `Python` `C++` `JavaScript` `HTML/CSS` `SQL` `DART`
+
+#### Web & Frameworks:
+`React.js` `Firebase` `Node.js` `Express.js` `MongoDB` `Spring Boot` `JSP` `Servlets`
+
+#### Tools & Platforms:
+`VS Code` `Eclipse` `NetBeans` `XAMPP` `Git & GitHub` `Postman` `Google Colab`
+
+#### Databases & Backend:
+`MySQL` `Firebase Realtime DB` `MongoDB` `JDBC`
+
+#### Concepts:
+`DSA` `OOPS` `DBMS` `OS` `CN` `SDLC` `Agile`
 
 ---
 
-### 🚀 Featured Projects
-
-#### 🧠 MentorConnect
-A full-featured platform connecting students and professionals via **video calls**, **chat**, **discussion forums**, and **FAQs**, with dynamic mentor scheduling and real-time push notifications.  
-**Tech Stack:** Firebase • React • TypeScript • Jitsi Meet
-
-#### 📅 FullCalendar Next Version
-An enhanced calendar system built on top of FullCalendar.io with **user authentication**, **event persistence**, **live chat**, and **meeting scheduling**, including **push notifications** for new events/messages.  
-**Tech Stack:** Firebase • React • TypeScript • Jitsi Meet
+### 🔥 Featured Projects
 
 #### 🚦 Smart AI Traffic System (SIH 2024)
-Real-time traffic light control using **Python**, **OpenCV**, **ESP32**, and a **Raspberry Pi** based controller that dynamically calculates signal duration based on vehicle density.  
-**Highlights:** Centralized AI coordination, IoT device communication, real-world simulation.
+Dynamic traffic signal management using **OpenCV**, **YOLO**, **Python**, **ESP32**, and **Raspberry Pi**  
+→ Accuracy: 80%+ | Reduced congestion by 25% | Centralized real-time AI coordination  
+[GitHub ↗](https://github.com/SAMKIT-CHOPDA/SIH)
 
-#### 🤖 Google API Chatbot
-A smart chatbot that integrates with various **Google APIs** to provide dynamic, real-time responses for services like Calendar, Drive, Gmail, and Maps.
+#### 🤝 MentorConnect (Hackathon Finalist)
+MERN + Firebase-based platform with **Google Calendar API**, **Jitsi Video Calls**, **Chat**, **Discussion Forums**, and **FAQ System**  
+→ Finalist at Orchathon 2025  
+[GitHub ↗](https://github.com/priyankahotkar/mentorconnect)
 
-#### 🛡️ AI Proctoring System (Internship)
-Built for **Uptoskills**, this system leverages AI to **detect cheating behaviors**, analyze **facial cues**, and ensure integrity in remote exams using **real-time monitoring**.
+#### 📅 FullCalendar Next Version  
+FullCalendar.io clone with **real-time chat**, **event scheduling**, **video conferencing**, and **push notifications**  
+[GitHub ↗](https://github.com/priyankahotkar/fullcalenderNextVersion)
 
-#### 🎮 Gaming Web E-Commerce Site (Internship – Ongoing)
-Developing a scalable e-commerce web app tailored for gaming products with features like **product filtering**, **cart & checkout**, **user auth**, and **admin dashboards**.  
-**Tech Stack:** Firebase • TypeScript • React
+#### 🤖 Google API Chatbot  
+A conversational chatbot integrating Google Calendar, Drive, Gmail & Maps using Google Search API  
+[GitHub ↗](https://github.com/priyankahotkar/GoogleChatbot)
+
+#### 🛡️ AI Proctoring System (UptoSkills Internship)
+Built using Python + OpenCV + JS to detect suspicious behavior during exams—improved detection by 20%  
+
+#### 🎮 Gaming E-Commerce Platform (Jabsz Internship)
+Ongoing project using React + Firebase + TypeScript, including admin panel, cart, filtering, auth & checkout
 
 ---
 
-### 📊 GitHub Stats
+### 🏅 Accomplishments
+- 🧠 **570+ LeetCode Problems** | 100 Days Badge | 28-Day Streak  
+- 🥇 **SIH 2024 Team Leader** | National-level Smart India Hackathon  
+- 🏆 **Orchathon Finalist (MentorConnect)** | Full-stack platform built in 48 hrs  
+- 👩‍🏫 Active Member: ISTE | NSS | LOL Club – Team leadership & event coordination  
+
+---
+
+### 📈 GitHub & LeetCode Stats
 
 <div align="center">
 
-![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=priyankahotkar&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankahotkar&layout=compact&theme=radical)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=priyankahotkar&theme=radical)](https://git.io/streak-stats)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyankahotkar&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankahotkar&layout=compact&theme=radical)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=priyankahotkar&theme=radical)](https://git.io/streak-stats)  
+[![LeetCode Stats](https://leetcard.jacoblin.cool/priyankahotkar_?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/priyankahotkar_/)
 
 </div>
 
@@ -62,10 +83,12 @@ Developing a scalable e-commerce web app tailored for gaming products with featu
 
 ### 📫 Contact Me
 
-- 📧 Email: priyankahotkar4@gmail.com
-- 💼 LinkedIn: [LinkedIn profile](www.linkedin.com/in/priyanka-hotkar-3a667a259) 
-- 🐱 GitHub: [@priyankahotkar](https://github.com/priyankahotkar)
+- 📧 **Email:** priyankahotkar4@gmail.com  
+- 🔗 **Portfolio:** [priyankahotkar.github.io/Portfolio](https://priyankahotkar.github.io/Portfolio/)  
+- 💼 **LinkedIn:** [linkedin.com/in/priyanka-hotkar-3a667a259](https://www.linkedin.com/in/priyanka-hotkar-3a667a259)  
+- 🐱 **GitHub:** [github.com/priyankahotkar](https://github.com/priyankahotkar)  
+- 🧠 **LeetCode:** [leetcode.com/u/priyankahotkar_/](https://leetcode.com/u/priyankahotkar_/)
 
 ---
 
-<div align="center">Made with ❤️ by Priyanka Hotkar</div>
+<div align="center">🚀 Let’s connect, build, and innovate!</div>
