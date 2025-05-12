@@ -84,7 +84,7 @@ Ongoing project using React + Firebase + TypeScript, including admin panel, cart
 ### 📫 Contact Me
 
 - 📧 **Email:** priyankahotkar4@gmail.com  
-- 🔗 **Portfolio:** [priyankahotkar.github.io/Portfolio](https://priyankahotkar.github.io/Portfolio/)  
+- 🔗 **Portfolio:** [priyankahotkar.github.io/Portfolio](https://priyankahotkar.github.io/Portfolio-2.0/)  
 - 💼 **LinkedIn:** [linkedin.com/in/priyanka-hotkar-3a667a259](https://www.linkedin.com/in/priyanka-hotkar-3a667a259)  
 - 🐱 **GitHub:** [github.com/priyankahotkar](https://github.com/priyankahotkar)  
 - 🧠 **LeetCode:** [leetcode.com/u/priyankahotkar_/](https://leetcode.com/u/priyankahotkar_/)
