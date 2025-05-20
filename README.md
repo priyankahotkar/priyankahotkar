@@ -34,7 +34,7 @@
 
 ###  Featured Projects
 
-#### 🚦 Smart AI Traffic System (SIH 2024)
+####  Smart AI Traffic System (SIH 2024)
 Dynamic traffic signal management using **OpenCV**, **YOLO**, **Python**, **ESP32**, and **Raspberry Pi**  
 → Accuracy: 80%+ | Reduced congestion by 25% | Centralized real-time AI coordination  
 [GitHub ↗](https://github.com/SAMKIT-CHOPDA/SIH)
