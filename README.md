@@ -3,13 +3,13 @@
 
 ---
 
-### 🚀 About Me
-- 🎓 B.Tech CSE Student @ Walchand Institute of Technology | CGPA: 9.75  
-- 💻 Java & DSA Enthusiast (Apna College Sigma 3.0)  
-- 🤖 Exploring Machine Learning, Cloud Computing & System Design  
-- 👩‍💻 Intern @ Jabsz Gaming Studios (Full-Stack) & UptoSkills (AI/ML)  
-- 🏆 570+ Problems Solved on LeetCode | 100 Days Badge | Global Rank Top 27%  
-- 🧠 Passionate about building scalable tech with real-world impact
+### About Me
+-  B.Tech CSE Student @ Walchand Institute of Technology | CGPA: 9.75  
+-  Java & DSA Enthusiast (Apna College Sigma 3.0)  
+-  Exploring Machine Learning, Cloud Computing & System Design  
+-  Intern @ Jabsz Gaming Studios (Full-Stack) & UptoSkills (AI/ML)  
+-  570+ Problems Solved on LeetCode | 100 Days Badge | Global Rank Top 27%  
+-  Passionate about building scalable tech with real-world impact
 
 ---
 
@@ -32,39 +32,39 @@
 
 ---
 
-### 🔥 Featured Projects
+###  Featured Projects
 
 #### 🚦 Smart AI Traffic System (SIH 2024)
 Dynamic traffic signal management using **OpenCV**, **YOLO**, **Python**, **ESP32**, and **Raspberry Pi**  
 → Accuracy: 80%+ | Reduced congestion by 25% | Centralized real-time AI coordination  
 [GitHub ↗](https://github.com/SAMKIT-CHOPDA/SIH)
 
-#### 🤝 MentorConnect (Hackathon Finalist)
+####  MentorConnect (Hackathon Finalist)
 MERN + Firebase-based platform with **Google Calendar API**, **Jitsi Video Calls**, **Chat**, **Discussion Forums**, and **FAQ System**  
 → Finalist at Orchathon 2025  
 [GitHub ↗](https://github.com/priyankahotkar/mentorconnect)
 
-#### 📅 FullCalendar Next Version  
+####  FullCalendar Next Version  
 FullCalendar.io clone with **real-time chat**, **event scheduling**, **video conferencing**, and **push notifications**  
 [GitHub ↗](https://github.com/priyankahotkar/fullcalenderNextVersion)
 
-#### 🤖 Google API Chatbot  
+####  Google API Chatbot  
 A conversational chatbot integrating Google Calendar, Drive, Gmail & Maps using Google Search API  
 [GitHub ↗](https://github.com/priyankahotkar/GoogleChatbot)
 
-#### 🛡️ AI Proctoring System (UptoSkills Internship)
+####  AI Proctoring System (UptoSkills Internship)
 Built using Python + OpenCV + JS to detect suspicious behavior during exams—improved detection by 20%  
 
-#### 🎮 Gaming E-Commerce Platform (Jabsz Internship)
+####  Gaming E-Commerce Platform (Jabsz Internship)
 Ongoing project using React + Firebase + TypeScript, including admin panel, cart, filtering, auth & checkout
 
 ---
 
 ### 🏅 Accomplishments
-- 🧠 **570+ LeetCode Problems** | 100 Days Badge | 28-Day Streak  
-- 🥇 **SIH 2024 Team Leader** | National-level Smart India Hackathon  
-- 🏆 **Orchathon Finalist (MentorConnect)** | Full-stack platform built in 48 hrs  
-- 👩‍🏫 Active Member: ISTE | NSS | LOL Club – Team leadership & event coordination  
+-  **570+ LeetCode Problems** | 100 Days Badge | 28-Day Streak  
+-  **SIH 2024 Team Leader** | National-level Smart India Hackathon  
+-  **Orchathon Finalist (MentorConnect)** | Full-stack platform built in 48 hrs  
+-  Active Member: ISTE | NSS | LOL Club – Team leadership & event coordination  
 
 ---
 
@@ -83,12 +83,12 @@ Ongoing project using React + Firebase + TypeScript, including admin panel, cart
 
 ### 📫 Contact Me
 
-- 📧 **Email:** priyankahotkar4@gmail.com  
-- 🔗 **Portfolio:** [priyankahotkar.github.io/Portfolio](https://priyankahotkar.github.io/Portfolio-2.0/)  
-- 💼 **LinkedIn:** [linkedin.com/in/priyanka-hotkar-3a667a259](https://www.linkedin.com/in/priyanka-hotkar-3a667a259)  
-- 🐱 **GitHub:** [github.com/priyankahotkar](https://github.com/priyankahotkar)  
-- 🧠 **LeetCode:** [leetcode.com/u/priyankahotkar_/](https://leetcode.com/u/priyankahotkar_/)
+-  **Email:** priyankahotkar4@gmail.com  
+-  **Portfolio:** [priyankahotkar.github.io/Portfolio](https://priyankahotkar.github.io/Portfolio-2.0/)  
+-  **LinkedIn:** [linkedin.com/in/priyanka-hotkar-3a667a259](https://www.linkedin.com/in/priyanka-hotkar-3a667a259)  
+-  **GitHub:** [github.com/priyankahotkar](https://github.com/priyankahotkar)  
+-  **LeetCode:** [leetcode.com/u/priyankahotkar_/](https://leetcode.com/u/priyankahotkar_/)
 
 ---
 
-<div align="center">🚀 Let’s connect, build, and innovate!</div>
+<div align="center"> Let’s connect, build, and innovate!</div>
