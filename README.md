@@ -7,8 +7,9 @@
 -  B.Tech CSE Student @ Walchand Institute of Technology | CGPA: 9.75  
 -  Java & DSA Enthusiast (Apna College Sigma 3.0)  
 -  Exploring Machine Learning, Cloud Computing & System Design  
--  Intern @ Jabsz Gaming Studios (Full-Stack) & UptoSkills (AI/ML)  
--  570+ Problems Solved on LeetCode | 100 Days Badge | Global Rank Top 27%  
+-  Intern @ Jabsz Gaming Studios (Full-Stack) & Success Magnet (SDE Intern)
+-  Ex-Intern @ UptoSkills
+-  600+ Problems Solved on LeetCode | 100 Days Badge | Global Rank Top 27%  
 -  Passionate about building scalable tech with real-world impact
 
 ---
