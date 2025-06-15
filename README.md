@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanka Hotkar</h1>
-<h3 align="center">Java Developer | AI Explorer | Full-Stack Intern | 3rd Year B.Tech Student</h3>
+<h3 align="center">DSAholic | Java Developer | AI Explorer | Full-Stack Intern | 3rd Year B.Tech Student</h3>
 
 ---
 
