@@ -64,7 +64,7 @@ Ongoing project using React + Firebase + TypeScript, including admin panel, cart
 ### 🏅 Accomplishments
 -  **730+ LeetCode Problems** | 100 Days Badge | 28-Day Streak  
 -  **SIH 2024 Team Leader** | National-level Smart India Hackathon  
--  **Orchathon Finalist (MentorConnect)** | Full-stack platform built in 48 hrs  
+-  **Orchathon Finalist (MentorConnect)** | Full-stack platform built in 24 hrs  
 -  Active Member: ISTE | NSS | LOL Club – Team leadership & event coordination  
 
 ---
