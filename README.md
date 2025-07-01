@@ -9,7 +9,7 @@
 -  Exploring Machine Learning, Cloud Computing & System Design  
 -  Intern @ Jabsz Gaming Studios (Full-Stack) & Success Magnet (SDE Intern)
 -  Ex-Intern @ UptoSkills
--  600+ Problems Solved on LeetCode | 100 Days Badge | Global Rank Top 27%  
+-  700+ Problems Solved on LeetCode | 100 Days Badge | Global Rank Top 26%  
 -  Passionate about building scalable tech with real-world impact
 
 ---
