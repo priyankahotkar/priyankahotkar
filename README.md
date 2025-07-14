@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanka Hotkar</h1>
-<h3 align="center">DSAholic | Java Developer | AI Explorer | Full-Stack Intern | 3rd Year B.Tech Student</h3>
+<h3 align="center">DSAholic | Java Developer | AI Explorer | Full-Stack Dev | 3rd Year B.Tech Student</h3>
 
 ---
 
@@ -7,9 +7,10 @@
 -  B.Tech CSE Student @ Walchand Institute of Technology | CGPA: 9.75  
 -  Java & DSA Enthusiast (Apna College Sigma 3.0)  
 -  Exploring Machine Learning, Cloud Computing & System Design  
--  Intern @ Jabsz Gaming Studios (Full-Stack) & Success Magnet (SDE Intern)
+-  Ex-Intern @ Jabsz Gaming Studios (Full-Stack)
+-  Ex-Intern @ Success Magnet (SDE Intern)
 -  Ex-Intern @ UptoSkills
--  700+ Problems Solved on LeetCode | 100 Days Badge | Global Rank Top 26%  
+-  800+ Problems Solved on LeetCode | 100 Days Badge | Global Rank Top 27%  
 -  Passionate about building scalable tech with real-world impact
 
 ---
