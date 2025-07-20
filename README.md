@@ -58,7 +58,7 @@ A conversational chatbot integrating Google Calendar, Drive, Gmail & Maps using 
 Built using Python + OpenCV + JS to detect suspicious behavior during exams—improved detection by 20%  
 
 ####  Gaming E-Commerce Platform (Jabsz Internship)
-Ongoing project using React + Firebase + TypeScript, including admin panel, cart, filtering, auth & checkout
+Built project using React + Firebase + TypeScript, including admin panel, cart, filtering, auth & checkout
 
 ---
 
