@@ -10,7 +10,8 @@
 -  Ex-Intern @ Jabsz Gaming Studios (Full-Stack)
 -  Ex-Intern @ Success Magnet (SDE Intern)
 -  Ex-Intern @ UptoSkills (AIML Intern)
--  800+ Problems Solved on LeetCode | 100 Days Badge | Global Rank Top 27%  
+-  850+ Problems Solved on LeetCode | 100 Days Badge | Global Rank Top 27%
+-  Newbie @Codeforces
 -  Passionate about building scalable tech with real-world impact
 
 ---
@@ -90,6 +91,7 @@ Built project using React + Firebase + TypeScript, including admin panel, cart, 
 -  **LinkedIn:** [linkedin.com/in/priyanka-hotkar-3a667a259](https://www.linkedin.com/in/priyanka-hotkar-3a667a259)  
 -  **GitHub:** [github.com/priyankahotkar](https://github.com/priyankahotkar)  
 -  **LeetCode:** [leetcode.com/u/priyankahotkar_/](https://leetcode.com/u/priyankahotkar_/)
+-  **CodeForces:** [https://codeforces.com/profile/priyankahotkar_/](https://codeforces.com/profile/priyankahotkar_)
 
 ---
 
