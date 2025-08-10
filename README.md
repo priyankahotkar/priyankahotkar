@@ -63,7 +63,7 @@ Built project using React + Firebase + TypeScript, including admin panel, cart, 
 ---
 
 ### 🏅 Accomplishments
--  **900+ LeetCode Problems** | 100 Days Badge | 28-Day Streak  
+-  **900+ LeetCode Problems** | Codeforces Solver  
 -  **SIH 2024 Team Leader** | National-level Smart India Hackathon  
 -  **Orchathon Finalist (MentorConnect)** | Full-stack platform built in 24 hrs  
 -  Active Member: ISTE | NSS | LOL Club – Team leadership & event coordination  
