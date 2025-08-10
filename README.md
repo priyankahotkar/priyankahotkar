@@ -10,7 +10,7 @@
 -  Ex-Intern @ Jabsz Gaming Studios (Full-Stack)
 -  Ex-Intern @ Success Magnet (SDE Intern)
 -  Ex-Intern @ UptoSkills (AIML Intern)
--  850+ Problems Solved on LeetCode | 100 Days Badge | Global Rank Top 19%
+-  900+ Problems Solved on LeetCode | 100 Days Badge | Global Rank Top 19%
 -  Newbie @Codeforces
 -  Passionate about building scalable tech with real-world impact
 
@@ -64,7 +64,7 @@ Built project using React + Firebase + TypeScript, including admin panel, cart, 
 ---
 
 ### 🏅 Accomplishments
--  **800+ LeetCode Problems** | 100 Days Badge | 28-Day Streak  
+-  **900+ LeetCode Problems** | 100 Days Badge | 28-Day Streak  
 -  **SIH 2024 Team Leader** | National-level Smart India Hackathon  
 -  **Orchathon Finalist (MentorConnect)** | Full-stack platform built in 24 hrs  
 -  Active Member: ISTE | NSS | LOL Club – Team leadership & event coordination  
