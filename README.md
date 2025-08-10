@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanka Hotkar</h1>
 <h3 align="center">DSAholic | Java Developer | AI Explorer | Full-Stack Dev | Final Year B.Tech Student</h3>
----
+
 
 ### About Me
 -  B.Tech CSE Student @ Walchand Institute of Technology | CGPA: 9.75  
