@@ -3,7 +3,7 @@
 
 
 ### About Me
--  B.Tech CSE Student @ Walchand Institute of Technology | CGPA: 9.75  
+-  B.Tech CSE Student @ Walchand Institute of Technology | CGPA: 9.67  
 -  Java & DSA Enthusiast (Apna College Sigma 3.0)  
 -  Exploring Machine Learning, Cloud Computing & System Design  
 -  Ex-Intern @ Jabsz Gaming Studios (Full-Stack)
