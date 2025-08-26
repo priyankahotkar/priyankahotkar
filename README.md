@@ -53,7 +53,7 @@ Currently engaging **90+ users**, **400+ views**, and boasting a **24% bounce ra
 
 #### FullCalendar Next Version  
 FullCalendar.io clone with **real-time chat**, **event scheduling**, **video conferencing**, and **push notifications**  
-[GitHub ↗](https://github.com/priyankahotkar/fullcalenderNextVersion)
+[Live Demo ↗](https://fullcalender-1bddf.web.app/) | [GitHub ↗](https://github.com/priyankahotkar/fullcalenderNextVersion)
 
 #### Google API Chatbot  
 A conversational chatbot integrating **Google Calendar, Drive, Gmail & Maps APIs**  
