@@ -1,21 +1,22 @@
 <h1 align="center">Hi 👋, I'm Priyanka Hotkar</h1>
 <h3 align="center">DSAholic | Java Developer | AI Explorer | Full-Stack Dev | Final Year B.Tech Student</h3>
 
+---
 
 ### About Me
--  B.Tech CSE Student @ Walchand Institute of Technology | CGPA: 9.67  
--  Java & DSA Enthusiast (Apna College Sigma 3.0)  
--  Exploring Machine Learning, Cloud Computing & System Design  
--  Ex-Intern @ Jabsz Gaming Studios (Full-Stack)
--  Ex-Intern @ Success Magnet (SDE Intern)
--  Ex-Intern @ UptoSkills (AIML Intern)
--  950+ Problems Solved on LeetCode | Global Rank in contests: Top 18%
--  Newbie @Codeforces
--  Passionate about building scalable tech with real-world impact
+- B.Tech CSE Student @ Walchand Institute of Technology | **CGPA: 9.68**
+- Java & DSA Enthusiast (Apna College Sigma 3.0)  
+- Exploring Machine Learning, Cloud Computing & System Design  
+- Ex-Intern @ Jabsz Gaming Studios (Full-Stack)  
+- Ex-Intern @ Success Magnet (SDE Intern)  
+- Ex-Intern @ UptoSkills (AIML Intern)  
+- **950+ Problems Solved on LeetCode** | Global Contest Rank: **Top 18%**  
+- Newbie @Codeforces  
+- Passionate about building scalable tech with real-world impact  
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 #### Languages:
 `Java` `Python` `C++` `JavaScript` `HTML/CSS` `SQL` `DART`
@@ -34,43 +35,47 @@
 
 ---
 
-###  Featured Projects
+### Featured Projects
 
-####  Smart AI Traffic System (SIH 2024)
+#### Smart AI Traffic System (SIH 2024)
 Dynamic traffic signal management using **OpenCV**, **YOLO**, **Python**, **ESP32**, and **Raspberry Pi**  
 → Accuracy: 80%+ | Reduced congestion by 25% | Centralized real-time AI coordination  
 [GitHub ↗](https://github.com/SAMKIT-CHOPDA/SIH)
 
-####  MentorConnect (Hackathon Finalist)
-MERN + Firebase-based platform with **Google Calendar API**, **Jitsi Video Calls**, **Chat**, **Discussion Forums**, and **FAQ System**  
-→ Finalist at Orchathon 2025  
-[GitHub ↗](https://github.com/priyankahotkar/mentorconnect)
+#### Unlimitly – AI Mentoring Platform  
+Free **AI-driven mentoring platform** with automated scheduling, built-in video conferencing, real-time chat, discussion forums, FAQs, roadmap-based resources, and progressive learning through badges & rewards.  
+[Live Demo ↗](https://unlimitly-c1506.web.app/) | [GitHub ↗](https://github.com/priyankahotkar/Unlimitly)
 
-####  FullCalendar Next Version  
+#### DSA with Real Life  
+An **interactive platform** that explains Data Structures & Algorithms through **real-life analogies**.  
+Currently engaging **90+ users**, **400+ views**, and boasting a **24% bounce rate**—proving strong learner retention.  
+[Live Demo ↗](https://dsa-with-real-life.vercel.app/) | [GitHub ↗](https://github.com/priyankahotkar/DSA-with-Real-Life)
+
+#### FullCalendar Next Version  
 FullCalendar.io clone with **real-time chat**, **event scheduling**, **video conferencing**, and **push notifications**  
 [GitHub ↗](https://github.com/priyankahotkar/fullcalenderNextVersion)
 
-####  Google API Chatbot  
-A conversational chatbot integrating Google Calendar, Drive, Gmail & Maps using Google Search API  
+#### Google API Chatbot  
+A conversational chatbot integrating **Google Calendar, Drive, Gmail & Maps APIs**  
 [GitHub ↗](https://github.com/priyankahotkar/GoogleChatbot)
 
-####  AI Proctoring System (UptoSkills Internship)
-Built using Python + OpenCV + JS to detect suspicious behavior during exams—improved detection by 20%  
+#### AI Proctoring System (UptoSkills Internship)  
+Built using **Python + OpenCV + JS** to detect suspicious behavior during exams—improved detection by 20%  
 
-####  Gaming E-Commerce Platform (Jabsz Internship)
-Built project using React + Firebase + TypeScript, including admin panel, cart, filtering, auth & checkout
-
----
-
-### 🏅 Accomplishments
--  **900+ LeetCode Problems** | Codeforces Solver  
--  **SIH 2024 Team Leader** | National-level Smart India Hackathon  
--  **Orchathon Finalist (MentorConnect)** | Full-stack platform built in 24 hrs  
--  Active Member: ISTE | NSS | LOL Club – Team leadership & event coordination  
+#### Gaming E-Commerce Platform (Jabsz Internship)  
+React + Firebase + TypeScript-based platform with **Admin Panel**, **Cart**, **Filtering**, **Auth & Checkout**
 
 ---
 
-### 📈 GitHub & LeetCode Stats
+### Accomplishments
+- **950+ LeetCode Problems Solved** | Codeforces Solver  
+- **Team Leader, SIH 2024** | National-level Smart India Hackathon  
+- **Orchathon Finalist** (24-hr hackathon)  
+- Active Member: ISTE | NSS | LOL Club – Leadership & Event Coordination  
+
+---
+
+### GitHub & LeetCode Stats
 
 <div align="center">
 
@@ -83,15 +88,14 @@ Built project using React + Firebase + TypeScript, including admin panel, cart, 
 
 ---
 
-### 📫 Contact Me
-
--  **Email:** priyankahotkar4@gmail.com  
--  **Portfolio:** [priyankahotkar.github.io/Portfolio](https://priyankahotkar.github.io/Portfolio-2.0/)  
--  **LinkedIn:** [linkedin.com/in/priyanka-hotkar-3a667a259](https://www.linkedin.com/in/priyanka-hotkar-3a667a259)  
--  **GitHub:** [github.com/priyankahotkar](https://github.com/priyankahotkar)  
--  **LeetCode:** [leetcode.com/u/priyankahotkar_/](https://leetcode.com/u/priyankahotkar_/)
--  **CodeForces:** [https://codeforces.com/profile/priyankahotkar_/](https://codeforces.com/profile/priyankahotkar_)
+### Contact Me
+- **Email:** priyankahotkar4@gmail.com  
+- **Portfolio:** [priyankahotkar.github.io/Portfolio](https://priyankahotkar.github.io/Portfolio-2.0/)  
+- **LinkedIn:** [linkedin.com/in/priyanka-hotkar-3a667a259](https://www.linkedin.com/in/priyanka-hotkar-3a667a259)  
+- **GitHub:** [github.com/priyankahotkar](https://github.com/priyankahotkar)  
+- **LeetCode:** [leetcode.com/u/priyankahotkar_/](https://leetcode.com/u/priyankahotkar_/)  
+- **CodeForces:** [codeforces.com/profile/priyankahotkar_](https://codeforces.com/profile/priyankahotkar_)  
 
 ---
 
-<div align="center"> Let’s connect, build, and innovate!</div>
+<div align="center">✨ Let’s connect, build, and innovate together! ✨</div>
