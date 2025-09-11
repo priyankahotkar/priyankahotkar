@@ -10,7 +10,7 @@
 - Ex-Intern @ Jabsz Gaming Studios (Full-Stack)  
 - Ex-Intern @ Success Magnet (SDE Intern)  
 - Ex-Intern @ UptoSkills (AIML Intern)  
-- **950+ Problems Solved on LeetCode** | Global Contest Rank: **Top 13%**  
+- **1000+ Problems Solved on LeetCode** | Global Contest Rank: **Top 12%**  
 - Newbie @Codeforces  
 - Passionate about building scalable tech with real-world impact  
 
@@ -68,7 +68,7 @@ React + Firebase + TypeScript-based platform with **Admin Panel**, **Cart**, **F
 ---
 
 ### Accomplishments
-- **950+ LeetCode Problems Solved** | Codeforces Solver  
+- **1000+ LeetCode Problems Solved** | Codeforces Solver  
 - **Team Leader, SIH 2024** | National-level Smart India Hackathon  
 - **Orchathon Finalist** (24-hr hackathon)  
 - Active Member: ISTE | NSS | LOL Club – Leadership & Event Coordination  
