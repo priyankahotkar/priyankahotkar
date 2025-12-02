@@ -82,6 +82,7 @@ React + Firebase + TypeScript-based platform with **Admin Panel**, **Cart**, **F
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyankahotkar&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankahotkar&layout=compact&theme=radical)  
 [![GitHub Streak](https://streak-stats.demolab.com?user=priyankahotkar&theme=radical)](https://git.io/streak-stats)  
+![GitHub Repository Stats](https://github-readme-stats.vercel.app/api?username=priyankahotkar&show_icons=true&theme=radical)
 [![LeetCode Stats](https://leetcard.jacoblin.cool/priyankahotkar_?theme=dark&font=Fira%20Code&ext=heatmap)](https://leetcode.com/u/priyankahotkar_/)
 
 </div>
