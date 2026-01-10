@@ -4,13 +4,13 @@
 ---
 
 ### About Me
-- B.Tech CSE Student @ Walchand Institute of Technology | **CGPA: 9.68**
+- B.Tech CSE Student @ Walchand Institute of Technology | **CGPA: 9.65**
 - Java & DSA Enthusiast (Apna College Sigma 3.0)  
 - Exploring Machine Learning, Cloud Computing & System Design  
 - Ex-Intern @ Jabsz Gaming Studios (Full-Stack)  
 - Ex-Intern @ Success Magnet (SDE Intern)  
 - Ex-Intern @ UptoSkills (AIML Intern)  
-- **1000+ Problems Solved on LeetCode** | Global Contest Rank: **Top 9%**  
+- **1300+ Problems Solved on LeetCode** | Global Contest Rank: **Top 9%**  
 - Newbie @Codeforces  
 - Passionate about building scalable tech with real-world impact  
 
