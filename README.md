@@ -10,7 +10,7 @@
 - Ex-Intern @ Jabsz Gaming Studios (Full-Stack)  
 - Ex-Intern @ Success Magnet (SDE Intern)  
 - Ex-Intern @ UptoSkills (AIML Intern)  
-- **1300+ Problems Solved on LeetCode** | Global Contest Rank: **Top 9%**  
+- **1400+ Problems Solved on LeetCode** | Global Contest Rank: **Top 9%**  | Contest Rating: 1758 (max till now)
 - Newbie @Codeforces  
 - Passionate about building scalable tech with real-world impact  
 
@@ -31,7 +31,7 @@
 `MySQL` `Firebase Realtime DB` `MongoDB` `JDBC`
 
 #### Concepts:
-`DSA` `OOPS` `DBMS` `OS` `CN` `SDLC` `Agile`
+`DSA` `OOPS` `DBMS` `OS` `CN` `SDLC` `Agile` `Low Level Design` `High Level Design`
 
 ---
 
