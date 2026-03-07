@@ -5,12 +5,12 @@
 
 ### About Me
 - B.Tech CSE Student @ Walchand Institute of Technology | **CGPA: 9.65**
-- Java & DSA Enthusiast (Apna College Sigma 3.0)  
-- Exploring Machine Learning, Cloud Computing & System Design  
+- Java & DSA Enthusiast 
+- Exploring Machine Learning, AI Engineering & Cloud Computing 
 - Ex-Intern @ Jabsz Gaming Studios (Full-Stack)  
 - Ex-Intern @ Success Magnet (SDE Intern)  
 - Ex-Intern @ UptoSkills (AIML Intern)  
-- **1400+ Problems Solved on LeetCode** | Global Contest Rank: **Top 9%**  | Contest Rating: 1758 (max till now)
+- **1500+ Problems Solved on LeetCode** | Global Contest Rank: **Top 9%**  | Contest Rating: 1773 (max till now)
 - Newbie @Codeforces  
 - Passionate about building scalable tech with real-world impact  
 
@@ -68,7 +68,7 @@ React + Firebase + TypeScript-based platform with **Admin Panel**, **Cart**, **F
 ---
 
 ### Accomplishments
-- **1000+ LeetCode Problems Solved** | Codeforces Solver  
+- **1500+ LeetCode Problems Solved** | Codeforces Solver  
 - **Team Leader, SIH 2024** | National-level Smart India Hackathon  
 - **Orchathon Finalist** (24-hr hackathon)  
 - Active Member: ISTE | NSS | LOL Club – Leadership & Event Coordination  
