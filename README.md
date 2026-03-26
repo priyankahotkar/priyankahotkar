@@ -10,7 +10,7 @@
 - Ex-Intern @ Jabsz Gaming Studios (Full-Stack)  
 - Ex-Intern @ Success Magnet (SDE Intern)  
 - Ex-Intern @ UptoSkills (AIML Intern)  
-- **1500+ Problems Solved on LeetCode** | Global Contest Rank: **Top 9%**  | Contest Rating: 1773 (max till now)
+- **1500+ Problems Solved on LeetCode** | Global Contest Rank: **Top 8%**  | Contest Rating: 1773 (max till now)
 - Newbie @Codeforces  
 - Passionate about building scalable tech with real-world impact  
 
