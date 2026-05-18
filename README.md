@@ -6,11 +6,12 @@
 ### About Me
 - B.Tech CSE Student @ Walchand Institute of Technology | **CGPA: 9.65**
 - Knight @Leetcode
-- Exploring Machine Learning, AI Engineering & Cloud Computing 
+- Exploring Machine Learning, AI Engineering & Cloud Computing
+- Intern @ Endava
 - Ex-Intern @ Jabsz Gaming Studios (Full-Stack)  
 - Ex-Intern @ Success Magnet (SDE Intern)  
 - Ex-Intern @ UptoSkills (AIML Intern)  
-- **1500+ Problems Solved on LeetCode** | Global Contest Rank: **Top 6%**  | Contest Rating: 1851 (max till now)
+- **1800+ Problems Solved on LeetCode** | Global Contest Rank: **Top 5%**  | Contest Rating: 1876 (max till now)
 - Newbie @Codeforces  
 - Passionate about building scalable tech with real-world impact  
 
